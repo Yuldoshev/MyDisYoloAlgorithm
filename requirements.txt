@@ -69,7 +69,7 @@ python-dateutil==2.8.2
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.2.0
-PyYAML==5.3.1
+PyYAML==5.4
 qTimer==0.1.4
 regex==2022.3.2
 requests==2.27.1
