@@ -1,0 +1,4 @@
+Velosiped
+Avtobus
+Avtomashina
+Inson
