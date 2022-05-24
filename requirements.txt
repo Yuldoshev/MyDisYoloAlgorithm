@@ -86,7 +86,7 @@ sympy==1.10.1
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.6.3
+tensorflow==2.6.4
 tensorflow-addons==0.16.1
 tensorflow-cpu==2.6.3
 tensorflow-estimator==2.6.0
